@@ -6,7 +6,7 @@
  </ul>
 
 <a href="https://www.youtube.com/channel/UCAkrrLqh9JE6jZJE8OimGDA"><img width="35px" height="35px" src="https://raw.githubusercontent.com/AbanoubBoules/AbanoubBoules/main/youtube.png" ></a>
-<a href=""><img width="35px" height="35px" src="https://raw.githubusercontent.com/AbanoubBoules/AbanoubBoules/main/icon_linkedin.png" ></a>
+<a href="https://www.linkedin.com/in/abanoub-boules-146b131b9/"><img width="35px" height="35px" src="https://raw.githubusercontent.com/AbanoubBoules/AbanoubBoules/main/icon_linkedin.png" ></a>
 
 
 
