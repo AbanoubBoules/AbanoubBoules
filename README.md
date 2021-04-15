@@ -3,6 +3,6 @@
 <h2>About ME</h2>
 <ul>
   <li>I am a 3rd year student at the faculty of Computer and Information science, Ain Shams University</li>
-  <li><i class="fa fa-linkedin-square" aria-hidden="true"></i></li>
+  <li> <img src="https://raw.githubusercontent.com/AbanoubBoules/AbanoubBoules/main/icon_linkedin.png" > </li>
 </ul>
 
