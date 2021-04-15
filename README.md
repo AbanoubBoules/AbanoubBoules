@@ -4,6 +4,5 @@
 <ul>
   <li>I am a 3rd year student at the faculty of Computer and Information science, Ain Shams University</li>
   <li></li>
-  <li></li>
 </ul>
 
