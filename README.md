@@ -3,6 +3,9 @@
 <h2>About ME</h2>
 <ul>
   <li>I am a 3rd year student at the faculty of Computer and Information science, Ain Shams University</li>
-  <li> <img width="35px" height="35px" src="https://raw.githubusercontent.com/AbanoubBoules/AbanoubBoules/main/icon_linkedin.png" > <img width="35px" height="35px" src="https://raw.githubusercontent.com/AbanoubBoules/AbanoubBoules/main/youtube.png" > </li>
-</ul>
+ </ul>
+
+<img width="35px" height="35px" src="https://raw.githubusercontent.com/AbanoubBoules/AbanoubBoules/main/icon_linkedin.png" >
+<img width="35px" height="35px" src="https://raw.githubusercontent.com/AbanoubBoules/AbanoubBoules/main/youtube.png" >
+
 
