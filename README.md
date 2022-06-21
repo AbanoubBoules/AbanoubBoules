@@ -1,8 +1,8 @@
 <h1 >Hi 👋 I am Abanoub !</h1>
 <img width="100%" height="192px" align="center" src="https://raw.githubusercontent.com/AbanoubBoules/AbanoubBoules/main/man-jumping-impossible-possible-cliff-sunset-background-business-concept-idea_1323-266.jpg">
-<h2>About ME</h2>
+<h2>Education</h2>
 <ul>
-  <li>I am a 3rd year student at the faculty of Computer and Information science, Ain Shams University</li>
+  <li>Faculty of Computer and Information science, Ain Shams University</li>
  </ul>
 
 <a href="https://www.youtube.com/channel/UCAkrrLqh9JE6jZJE8OimGDA"><img width="35px" height="35px" src="https://raw.githubusercontent.com/AbanoubBoules/AbanoubBoules/main/youtube.png" ></a>
